@@ -21,7 +21,7 @@ import javafx.event.*;
  */
 
 
-public class Exercise15 extends Application {
+public class Exercise15_Listeners extends Application {
 	private MyCircle c1 = new MyCircle();
 	
 	@Override
